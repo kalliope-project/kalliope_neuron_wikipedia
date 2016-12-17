@@ -1,0 +1,9 @@
+---
+  # must match the entry  point class name
+  neuron_name: "wikipedia_searcher"
+  author: "The dream team of Kalliope project"
+
+  minimum_kalliope_version: 0.4.0
+
+  tags:
+    - "search engine"
