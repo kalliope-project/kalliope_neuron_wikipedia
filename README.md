@@ -4,6 +4,11 @@
 
 Get the summary of a Wikipedia page.
 
+## Installation
+```
+kalliope neuron-install --git-url "https://github.com/kalliope-project/kalliope_neuron_wikipedia.git"
+```
+
 ## Options
 
 | parameter | required | default | choices                     | comment                                                                                                                           |
