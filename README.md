@@ -72,3 +72,10 @@ If the query doesn't match any page on Wikipedia, kalliope will notify the user.
 ## Notes
 
 Available languages in [the detailed list of the offical Wikipedia page](https://en.wikipedia.org/wiki/List_of_Wikipedias#Detailed_list). The column is called "Wiki". E.g: "en"
+
+## License
+
+Copyright (c) 2016. All rights reserved.
+
+Kalliope is covered by the MIT license, a permissive free software license that lets you do anything you want with the source code, 
+as long as you provide back attribution and ["don't hold you liable"](http://choosealicense.com/). For the full license text see the [LICENSE.md](LICENSE.md) file.
