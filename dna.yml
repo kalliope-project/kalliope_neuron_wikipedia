@@ -4,7 +4,7 @@
   type: "neuron"
   author: "The dream team of Kalliope project"
 
-  minimum_kalliope_version: 
+  kalliope_supported_version: 
     - 0.4.0
 
   tags:
