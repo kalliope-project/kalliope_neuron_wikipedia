@@ -6,7 +6,7 @@ Get the summary of a Wikipedia page.
 
 ## Installation
 ```
-kalliope install --git-url "https://github.com/kalliope-project/kalliope_neuron_wikipedia.git"
+kalliope install --git-url https://github.com/kalliope-project/kalliope_neuron_wikipedia.git
 ```
 
 ## Options
