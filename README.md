@@ -43,8 +43,7 @@ This synapse will look for the {{ query }} spelt by the user on Wikipedia
   neurons:
     - wikipedia_searcher:
         language: "en"
-        args:
-          - query
+        query: "{{ query }}"
         file_template: "wikipedia_returned_value.j2"
 
 ```
