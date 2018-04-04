@@ -64,7 +64,7 @@ class Wikipedia_searcher(NeuronModule):
         .. raises:: InvalidParameterException
         """
 
-        if self.query is None:
+        if self.query is None or self.query == "":
             raise InvalidParameterException("Wikipedia needs a query")
         if self.language is None:
             raise InvalidParameterException("Wikipedia needs a language")
